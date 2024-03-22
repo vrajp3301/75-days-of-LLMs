@@ -15,3 +15,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 - **Topic:** Introduction to Large Language Models
 - **Content:** Overview of LLMs, their key features, and types.
 
+### [Day 2](Day-2/day2.md)
+- **Topic:** Types of LLMs
+- **Content:** Understanding the different types of Large Language Models (LLMs)
+
