@@ -37,3 +37,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 7](Day-7/day7.md)
 - **Topic:** Generative vs. Discriminative Models in AI 
 - **Content:** Generative models learn joint probability, while discriminative models learn conditional probability.
+
+### [Day 8](Day-8/day8.md)
+- **Topic:** Exploring OpenAI's GPT Series
+- **Content:** GPT models have been used for various applications
