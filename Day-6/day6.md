@@ -30,4 +30,3 @@ As Large Language Models (LLMs) continue to advance and proliferate, it's crucia
 - [Towards Trustworthy AI Development: Mechanisms for Supporting Verifiable Ethical AI](https://arxiv.org/abs/2109.10383)
 - [Ethical and Societal Implications of Language Model Bias](https://arxiv.org/abs/2108.10725)
 
-This README outlines key ethical considerations in the development of Large Language Models (LLMs), along with references for further exploration of the topic.

@@ -33,3 +33,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 6](Day-6/day6.md)
 - **Topic:** Ethical Considerations in Large Language Model
 - **Content:** Ethical considerations in the development of Large Language Models (LLMs)
+
+### [Day 7](Day-7/day7.md)
+- **Topic:** Generative vs. Discriminative Models in AI 
+- **Content:** Generative models learn joint probability, while discriminative models learn conditional probability.

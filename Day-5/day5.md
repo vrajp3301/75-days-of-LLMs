@@ -22,4 +22,3 @@ Transfer learning involves training a model on a source task and transferring it
 - [Fine-tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305)
 - [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 
-This README provides an overview of transfer learning with Large Language Models (LLMs), its benefits, practical considerations, and references for further reading.
