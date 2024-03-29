@@ -41,3 +41,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 8](Day-8/day8.md)
 - **Topic:** Exploring OpenAI's GPT Series
 - **Content:** GPT models have been used for various applications
+
+### [Day 9](Day-9/day9.md)
+- **Topic:** Leveraging LLMs for Text Generation
+- **Content:** Leveraging LLMs: Text generation prowess, applications, and considerations
