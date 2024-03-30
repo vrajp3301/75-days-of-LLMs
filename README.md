@@ -45,3 +45,11 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 9](Day-9/day9.md)
 - **Topic:** Leveraging LLMs for Text Generation
 - **Content:** Leveraging LLMs: Text generation prowess, applications, and considerations
+
+### [Day 10](Day-10/day10.md)
+- **Topic:** Conditional Text Generation with Large Language Models (LLMs)
+- **Content:** Conditional text generation involves providing additional input
+
+### [Day 11](Day-11/day11.md)
+- **Topic:** Bias Mitigation Techniques in Large Language Models (LLMs)
+- **Content:** ases can manifest in various forms, including gender bias, racial bias
