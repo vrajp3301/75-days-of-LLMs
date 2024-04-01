@@ -52,4 +52,12 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 
 ### [Day 11](Day-11/day11.md)
 - **Topic:** Bias Mitigation Techniques in Large Language Models (LLMs)
-- **Content:** ases can manifest in various forms, including gender bias, racial bias
+- **Content:** Biases can manifest in various forms, including gender bias, racial bias
+
+### [Day 12](Day-12/day12.md)
+- **Topic:** LLMs for Language Translation
+- **Content:** can translate text between multiple languages, supporting diverse language pairs and catering to global communication needs
+
+### [Day 13](Day-13/day13.md)
+- **Topic:** Zero-shot and Few-shot Learning with LLMs
+- **Content:** Zero-shot and few-shot learning enable LLMs to adapt to new domains
