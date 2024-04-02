@@ -61,3 +61,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 13](Day-13/day13.md)
 - **Topic:** Zero-shot and Few-shot Learning with LLMs
 - **Content:** Zero-shot and few-shot learning enable LLMs to adapt to new domains
+
+### [Day 14](Day-14/day14.md)
+- **Topic:**  LLMs on Text Summarization
+- **Content:** LLMs can generate summaries for long documents
