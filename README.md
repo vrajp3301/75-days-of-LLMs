@@ -65,3 +65,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 14](Day-14/day14.md)
 - **Topic:**  LLMs on Text Summarization
 - **Content:** LLMs can generate summaries for long documents
+
+### [Day 15](Day-15/day15.md)
+- **Topic:**   Handling Long Sequences with LLMs
+- **Content:** LLMs overcome long sequence challenges with windowing, hierarchical architectures, attention variants.
