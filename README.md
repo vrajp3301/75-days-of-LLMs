@@ -69,3 +69,11 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 15](Day-15/day15.md)
 - **Topic:**   Handling Long Sequences with LLMs
 - **Content:** LLMs overcome long sequence challenges with windowing, hierarchical architectures, attention variants.
+
+### [Day 16](Day-16/day16.md)
+- **Topic:**   Evaluating LLM Performance Metrics
+- **Content:** Evaluating LLM performance entails assessing perplexity, BLEU, ROUGE scores.
+
+### [Day 17](Day-17/day17.md)
+- **Topic:**   Fine-tuning LLMs for Specific Tasks
+- **Content:** Fine-tuning LLMs tailors pre-trained models to specific tasks for optimal performance.
