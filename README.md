@@ -77,3 +77,11 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 17](Day-17/day17.md)
 - **Topic:**   Fine-tuning LLMs for Specific Tasks
 - **Content:** Fine-tuning LLMs tailors pre-trained models to specific tasks for optimal performance.
+
+### [Day 18](Day-18/day18.md)
+- **Topic:**   Generating Code with LLMs
+- **Content:** LLMs adeptly generate code snippets, scripts, aiding developers in various tasks
+
+### [Day 17](Day-19/day19.md)
+- **Topic:**   LLMs for Sentiment Analysis
+- **Content:** LLMs excel in sentiment analysis, extracting sentiments from textual data
