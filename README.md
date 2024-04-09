@@ -82,6 +82,14 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 - **Topic:**   Generating Code with LLMs
 - **Content:** LLMs adeptly generate code snippets, scripts, aiding developers in various tasks
 
-### [Day 17](Day-19/day19.md)
+### [Day 19](Day-19/day19.md)
 - **Topic:**   LLMs for Sentiment Analysis
 - **Content:** LLMs excel in sentiment analysis, extracting sentiments from textual data
+
+### [Day 20](Day-20/day20.md)
+- **Topic:**   Understanding BERT and its Applications
+- **Content:** BERT, a transformer-based model, revolutionizes NLP tasks with its bidirectional architecture
+
+### [Day 21](Day-21/day21.md)
+- **Topic:**   LLMs for Chatbots and Conversational AI
+- **Content:** LLMs revolutionize chatbots, enhancing natural language understanding and conversation
