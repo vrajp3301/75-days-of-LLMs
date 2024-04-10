@@ -93,3 +93,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 21](Day-21/day21.md)
 - **Topic:**   LLMs for Chatbots and Conversational AI
 - **Content:** LLMs revolutionize chatbots, enhancing natural language understanding and conversation
+
+### [Day 22](Day-22/day22.md)
+- **Topic:**   Analyzing LLM Architectures
+- **Content:** Analyzing LLM architectures illuminates design, performance, and scalability considerations
