@@ -97,3 +97,11 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 22](Day-22/day22.md)
 - **Topic:**   Analyzing LLM Architectures
 - **Content:** Analyzing LLM architectures illuminates design, performance, and scalability considerations
+
+### [Day 23](Day-23/day23.md)
+- **Topic:**   Adversarial Attacks on LLMs
+- **Content:** LLMs face adversarial attacks through crafted input, demanding robust defenses.
+
+### [Day 24](Day-24/day24.md)
+- **Topic:**   Interpreting LLM Outputs
+- **Content:** Interpreting LLM outputs is essential for understanding biases and decisions.
