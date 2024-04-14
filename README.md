@@ -109,3 +109,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 25](Day-25/day25.md)
 - **Topic:**   LLMs for Speech Recognition
 - **Content:** LLMs transform spoken language into text, revolutionizing speech recognition
+
+### [Day 26](Day-26/day26.md)
+- **Topic:**   Explainable AI in LLMs
+- **Content:** Explainable AI techniques shed light on LLM decision-making processes, fostering trust
