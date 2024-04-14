@@ -105,3 +105,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 24](Day-24/day24.md)
 - **Topic:**   Interpreting LLM Outputs
 - **Content:** Interpreting LLM outputs is essential for understanding biases and decisions.
+
+### [Day 25](Day-25/day25.md)
+- **Topic:**   LLMs for Speech Recognition
+- **Content:** LLMs transform spoken language into text, revolutionizing speech recognition
