@@ -113,3 +113,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 26](Days/Day-26/day26.md)
 - **Topic:**   Explainable AI in LLMs
 - **Content:** Explainable AI techniques shed light on LLM decision-making processes, fostering trust
+
+### [Day 27](Days/Day-27/day27.md)
+- **Topic:**   Multi-modal LLMs: Text and Image Fusion
+- **Content:** Multi-modal LLMs integrate text and images, enhancing content understanding and generation.
