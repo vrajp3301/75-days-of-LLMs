@@ -117,3 +117,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 27](Days/Day-27/day27.md)
 - **Topic:**   Multi-modal LLMs: Text and Image Fusion
 - **Content:** Multi-modal LLMs integrate text and images, enhancing content understanding and generation.
+
+### [Day 28](Days/Day-28/day28.md)
+- **Topic:**   LLMs for Personalization and Recommendation Systems
+- **Content:** LLMs drive personalized recommendations by understanding user preferences and context
