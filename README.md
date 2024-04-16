@@ -121,3 +121,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 28](Days/Day-28/day28.md)
 - **Topic:**   LLMs for Personalization and Recommendation Systems
 - **Content:** LLMs drive personalized recommendations by understanding user preferences and context
+
+### [Day 29](Days/Day-29/day29.md)
+- **Topic:**   Exploring Large-Scale LLM Datasets
+- **Content:** Large-scale LLM datasets, like Common Crawl and Wikipedia dumps, fuel model training
