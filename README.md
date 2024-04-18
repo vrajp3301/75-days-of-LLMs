@@ -125,3 +125,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 29](Days/Day-29/day29.md)
 - **Topic:**   Exploring Large-Scale LLM Datasets
 - **Content:** Large-scale LLM datasets, like Common Crawl and Wikipedia dumps, fuel model training
+
+### [Day 30](Days/Day-30/day30.md)
+- **Topic:**  Training LLMs on Domain-specific Data
+- **Content:** Training LLMs on domain-specific data enhances model performance in specialized fields
