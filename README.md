@@ -129,3 +129,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 30](Days/Day-30/day30.md)
 - **Topic:**  Training LLMs on Domain-specific Data
 - **Content:** Training LLMs on domain-specific data enhances model performance in specialized fields
+
+### [Day 31](Days/Day-31/day31.md)
+- **Topic:**  Understanding Attention Mechanism in LLMs
+- **Content:** The attention mechanism in LLMs enables selective focus, improving contextual understanding in text processing.
