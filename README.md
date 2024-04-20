@@ -133,3 +133,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 31](Days/Day-31/day31.md)
 - **Topic:**  Understanding Attention Mechanism in LLMs
 - **Content:** The attention mechanism in LLMs enables selective focus, improving contextual understanding in text processing.
+
+### [Day 32](Days/Day-32/day32.md)
+- **Topic:**  Generating Poetry with LLMs
+- **Content:** LLMs exhibit creative prowess in generating diverse and stylistically rich poetry
