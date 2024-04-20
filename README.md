@@ -137,3 +137,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 32](Days/Day-32/day32.md)
 - **Topic:**  Generating Poetry with LLMs
 - **Content:** LLMs exhibit creative prowess in generating diverse and stylistically rich poetry
+
+### [Day 33](Days/Day-33/day33.md)
+- **Topic:**  Fine-tuning LLMs for Named Entity Recognition
+- **Content:** Fine-tuning LLMs enhances Named Entity Recognition accuracy and adaptability to diverse domains
