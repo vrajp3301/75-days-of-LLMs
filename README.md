@@ -145,3 +145,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 34](Days/Day-34/day34.md)
 - **Topic:**  LLMs for Knowledge Graph Completion
 - **Content:** LLMs leverage textual descriptions to enhance knowledge graph completion accuracy and scalability
+
+### [Day 35](Days/Day-35/day35.md)
+- **Topic:**  Handling Out-of-Distribution Data with LLMs
+- **Content:** LLMs employ uncertainty estimation and domain adaptation to handle out-of-distribution data effectively
