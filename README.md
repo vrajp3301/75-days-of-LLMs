@@ -141,3 +141,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 33](Days/Day-33/day33.md)
 - **Topic:**  Fine-tuning LLMs for Named Entity Recognition
 - **Content:** Fine-tuning LLMs enhances Named Entity Recognition accuracy and adaptability to diverse domains
+
+### [Day 34](Days/Day-34/day34.md)
+- **Topic:**  LLMs for Knowledge Graph Completion
+- **Content:** LLMs leverage textual descriptions to enhance knowledge graph completion accuracy and scalability
