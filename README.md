@@ -149,3 +149,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 35](Days/Day-35/day35.md)
 - **Topic:**  Handling Out-of-Distribution Data with LLMs
 - **Content:** LLMs employ uncertainty estimation and domain adaptation to handle out-of-distribution data effectively
+
+### [Day 36](Days/Day-36/day36.md)
+- **Topic:**  LLMs for Automatic Text Correction
+- **Content:** LLMs employ contextual understanding to enhance automatic text correction accuracy and efficiency
