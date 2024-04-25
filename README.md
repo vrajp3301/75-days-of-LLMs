@@ -153,3 +153,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 36](Days/Day-36/day36.md)
 - **Topic:**  LLMs for Automatic Text Correction
 - **Content:** LLMs employ contextual understanding to enhance automatic text correction accuracy and efficiency
+
+### [Day 37](Days/Day-37/day37.md)
+- **Topic:**  Scalability Challenges in LLM Deployment
+- **Content:** Deploying LLMs poses scalability challenges due to resource-intensive demands and real-time inference requirements.
