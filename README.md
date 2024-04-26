@@ -157,3 +157,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 37](Days/Day-37/day37.md)
 - **Topic:**  Scalability Challenges in LLM Deployment
 - **Content:** Deploying LLMs poses scalability challenges due to resource-intensive demands and real-time inference requirements.
+
+### [Day 38](Days/Day-38/day38.md)
+- **Topic:**  LLMs for Data Augmentation
+- **Content:** LLMs employ various techniques such as paraphrasing, text generation, and contextual augmentation to create augmented data samples.
