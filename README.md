@@ -161,3 +161,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 38](Days/Day-38/day38.md)
 - **Topic:**  LLMs for Data Augmentation
 - **Content:** LLMs employ various techniques such as paraphrasing, text generation, and contextual augmentation to create augmented data samples.
+
+### [Day 39](Days/Day-39/day39.md)
+- **Topic:**  Incremental Learning with LLMs
+- **Content:** Incremental learning empowers LLMs to continuously adapt and expand their knowledge with new data, overcoming limitations of static training paradigms
