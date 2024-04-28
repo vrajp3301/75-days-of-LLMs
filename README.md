@@ -173,3 +173,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 41](Days/Day-41/day41.md)
 - **Topic:**  Visualizing LLM Embeddings
 - **Content:** Visualizing LLM embeddings unveils semantic relationships and contextual representations, aiding interpretation and model comparison.
+
+### [Day 42](Days/Day-42/day42.md)
+- **Topic:**  LLMs for Fact-Checking and Verification
+- **Content:** LLMs serve as powerful tools for fact-checking and verifying textual claims, aiding in the battle against misinformation and fake news.
