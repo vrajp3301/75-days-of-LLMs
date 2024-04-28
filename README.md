@@ -165,3 +165,11 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 39](Days/Day-39/day39.md)
 - **Topic:**  Incremental Learning with LLMs
 - **Content:** Incremental learning empowers LLMs to continuously adapt and expand their knowledge with new data, overcoming limitations of static training paradigms
+
+### [Day 40](Days/Day-40/day40.md)
+- **Topic:**  LLMs for Document Understanding
+- **Content:** LLMs drive comprehensive document understanding, from classification to summarization, revolutionizing information extraction and analysis
+
+### [Day 41](Days/Day-41/day41.md)
+- **Topic:**  Visualizing LLM Embeddings
+- **Content:** Visualizing LLM embeddings unveils semantic relationships and contextual representations, aiding interpretation and model comparison.
