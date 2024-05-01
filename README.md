@@ -177,3 +177,11 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 42](Days/Day-42/day42.md)
 - **Topic:**  LLMs for Fact-Checking and Verification
 - **Content:** LLMs serve as powerful tools for fact-checking and verifying textual claims, aiding in the battle against misinformation and fake news.
+
+### [Day 43](Days/Day-43/day43.md)
+- **Topic:** Analyzing Handling Multilinguality with LLMs
+- **Content:** LLMs are increasingly adept at handling multilinguality, enabling cross-lingual understanding and generation across diverse languages
+
+### [Day 44](Days/Day-44/day44.md)
+- **Topic:**  Neuro-symbolic Integration with LLMs
+- **Content:** Neuro-symbolic integration augments LLMs with logical reasoning, enhancing interpretability and problem-solving capabilities
