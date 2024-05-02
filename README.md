@@ -185,3 +185,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 44](Days/Day-44/day44.md)
 - **Topic:**  Neuro-symbolic Integration with LLMs
 - **Content:** Neuro-symbolic integration augments LLMs with logical reasoning, enhancing interpretability and problem-solving capabilities
+
+### [Day 45](Days/Day-45/day45.md)
+- **Topic:**  LLMs for Automated Essay Scoring
+- **Content:** LLMs streamline essay grading with objective assessment, aiding educators in efficient evaluation and feedback delivery
