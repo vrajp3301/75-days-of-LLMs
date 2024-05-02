@@ -189,3 +189,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 45](Days/Day-45/day45.md)
 - **Topic:**  LLMs for Automated Essay Scoring
 - **Content:** LLMs streamline essay grading with objective assessment, aiding educators in efficient evaluation and feedback delivery
+
+### [Day 46](Days/Day-46/day46.md)
+- **Topic:**  Enhancing LLM Robustness to Adversarial Inputs
+- **Content:** Enhancing LLM robustness to adversarial inputs fortifies models against crafted perturbations, ensuring reliable performance in the face of potential attacks.
