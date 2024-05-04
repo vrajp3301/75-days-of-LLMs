@@ -193,3 +193,11 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 46](Days/Day-46/day46.md)
 - **Topic:**  Enhancing LLM Robustness to Adversarial Inputs
 - **Content:** Enhancing LLM robustness to adversarial inputs fortifies models against crafted perturbations, ensuring reliable performance in the face of potential attacks.
+
+### [Day 47](Days/Day-47/day47.md)
+- **Topic:**  Leveraging LLMs for Automated Storytelling
+- **Content:** Leveraging LLMs, automated storytelling crafts immersive narratives, enriching entertainment and media experiences with AI-generated content
+
+### [Day 48](Days/Day-48/day48.md)
+- **Topic:**  Semi-supervised Learning with LLMs
+- **Content:** Semi-supervised learning with LLMs optimizes model performance by harnessing both labeled and unlabeled data, fostering scalability and efficiency in training
