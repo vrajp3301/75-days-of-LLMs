@@ -205,3 +205,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 49](Days/Day-49/day49.md)
 - **Topic:**  LLMs for Speech Synthesis
 - **Content:** Leveraging LLMs, speech synthesis achieves natural and intelligible output, powering various applications from virtual assistants to audiobook narration
+
+### [Day 50](Days/Day-50/day50.md)
+- **Topic:**  Bias Detection and Mitigation in LLMs
+- **Content:** Detecting and mitigating biases in LLMs ensures fair and equitable outcomes in natural language processing applications
