@@ -201,3 +201,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 48](Days/Day-48/day48.md)
 - **Topic:**  Semi-supervised Learning with LLMs
 - **Content:** Semi-supervised learning with LLMs optimizes model performance by harnessing both labeled and unlabeled data, fostering scalability and efficiency in training
+
+### [Day 49](Days/Day-49/day49.md)
+- **Topic:**  LLMs for Speech Synthesis
+- **Content:** Leveraging LLMs, speech synthesis achieves natural and intelligible output, powering various applications from virtual assistants to audiobook narration
