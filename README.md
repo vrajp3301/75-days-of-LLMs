@@ -209,3 +209,11 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 50](Days/Day-50/day50.md)
 - **Topic:**  Bias Detection and Mitigation in LLMs
 - **Content:** Detecting and mitigating biases in LLMs ensures fair and equitable outcomes in natural language processing applications
+
+### [Day 51](Days/Day-51/day51.md)
+- **Topic:**  Generating Structured Data with LLMs
+- **Content:** LLMs harness natural language instructions to generate structured data, empowering data augmentation and exploratory analysis across diverse domains
+
+### [Day 50](Days/Day-50/day50.md)
+- **Topic:**  LLMs for Contextual Understanding
+- **Content:** LLMs excel in contextual understanding, leveraging surrounding information to interpret text nuances effectively across various natural language understanding tasks
