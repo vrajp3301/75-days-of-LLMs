@@ -214,6 +214,14 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 - **Topic:**  Generating Structured Data with LLMs
 - **Content:** LLMs harness natural language instructions to generate structured data, empowering data augmentation and exploratory analysis across diverse domains
 
-### [Day 50](Days/Day-50/day50.md)
+### [Day 52](Days/Day-52/day52.md)
 - **Topic:**  LLMs for Contextual Understanding
 - **Content:** LLMs excel in contextual understanding, leveraging surrounding information to interpret text nuances effectively across various natural language understanding tasks
+
+### [Day 53](Days/Day-53/day53.md)
+- **Topic:**  Ethical Guidelines for LLM Development
+- **Content:** Ethical guidelines for LLM development ensure responsible and equitable deployment of AI technologies, prioritizing fairness, transparency, and accountability
+
+### [Day 54](Days/Day-54/day54.md)
+- **Topic:**  Leveraging LLMs for Medical Text Analysis
+- **Content:**  Leveraging LLMs for medical text analysis enhances clinical decision support and research insights, revolutionizing healthcare with natural language processing capabilities.
