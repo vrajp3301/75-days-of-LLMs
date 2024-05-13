@@ -225,3 +225,11 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 54](Days/Day-54/day54.md)
 - **Topic:**  Leveraging LLMs for Medical Text Analysis
 - **Content:**  Leveraging LLMs for medical text analysis enhances clinical decision support and research insights, revolutionizing healthcare with natural language processing capabilities.
+
+### [Day 55](Days/Day-55/day55.md)
+- **Topic:**  Cross-Lingual Transfer Learning with LLMs 
+- **Content:**  Cross-lingual transfer learning with LLMs facilitates tasks across languages, revolutionizing multilingual NLP applications with shared representations
+
+### [Day 56](Days/Day-56/day56.md)
+- **Topic:**  LLMs for Emotion Detection in Text
+- **Content:**  LLMs for emotion detection in text leverage natural language understanding to discern and categorize emotional content, enhancing sentiment analysis and aiding applications in social media monitoring and mental health assessment
