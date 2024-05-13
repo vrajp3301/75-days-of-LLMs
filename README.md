@@ -233,3 +233,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 56](Days/Day-56/day56.md)
 - **Topic:**  LLMs for Emotion Detection in Text
 - **Content:**  LLMs for emotion detection in text leverage natural language understanding to discern and categorize emotional content, enhancing sentiment analysis and aiding applications in social media monitoring and mental health assessment
+
+### [Day 57](Days/Day-57/day57.md)
+- **Topic:**  Handling Imbalanced Data with LLMs
+- **Content:**  Handling imbalanced data with LLMs involves strategies like class weighting and resampling to mitigate bias and improve model performance on minority classes, crucial for applications like fraud detection and medical diagnosis.
