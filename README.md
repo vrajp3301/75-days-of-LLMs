@@ -237,3 +237,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 57](Days/Day-57/day57.md)
 - **Topic:**  Handling Imbalanced Data with LLMs
 - **Content:**  Handling imbalanced data with LLMs involves strategies like class weighting and resampling to mitigate bias and improve model performance on minority classes, crucial for applications like fraud detection and medical diagnosis.
+
+### [Day 58](Days/Day-58/day58.md)
+- **Topic:**  LLMs for Financial Forecasting
+- **Content:**  LLMs in financial forecasting leverage natural language processing to analyze textual data and predict market trends, aiding trading strategies and risk management in volatile markets
