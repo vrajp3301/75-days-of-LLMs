@@ -241,3 +241,11 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 58](Days/Day-58/day58.md)
 - **Topic:**  LLMs for Financial Forecasting
 - **Content:**  LLMs in financial forecasting leverage natural language processing to analyze textual data and predict market trends, aiding trading strategies and risk management in volatile markets
+
+### [Day 59](Days/Day-59/day59.md)
+- **Topic:**  Incorporating World Knowledge into LLMs
+- **Content:**  Incorporating world knowledge enhances LLMs' contextual understanding and reasoning capabilities, empowering them to access external information beyond training data for tasks like question answering and information retrieval
+
+### [Day 60](Days/Day-60/day60.md)
+- **Topic:**  Leveraging LLMs for Social Media Analysis
+- **Content:**  Leveraging LLMs for social media analysis enables real-time monitoring of sentiment, trends, and user behaviors, empowering businesses and organizations to make informed decisions in a dynamic online environment
