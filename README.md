@@ -249,3 +249,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 60](Days/Day-60/day60.md)
 - **Topic:**  Leveraging LLMs for Social Media Analysis
 - **Content:**  Leveraging LLMs for social media analysis enables real-time monitoring of sentiment, trends, and user behaviors, empowering businesses and organizations to make informed decisions in a dynamic online environment
+
+### [Day 61](Days/Day-61/day61.md)
+- **Topic:**  Federated Learning with LLMs
+- **Content:**  Federated learning with LLMs enables privacy-preserving, decentralized model training across multiple devices, improving performance without sharing raw data
