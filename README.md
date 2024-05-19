@@ -253,3 +253,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 61](Days/Day-61/day61.md)
 - **Topic:**  Federated Learning with LLMs
 - **Content:**  Federated learning with LLMs enables privacy-preserving, decentralized model training across multiple devices, improving performance without sharing raw data
+
+### [Day 62](Days/Day-62/day62.md)
+- **Topic:**  LLMs for Anomaly Detection in Text
+- **Content:**  LLMs enable effective anomaly detection in text by identifying unusual patterns, aiding in applications like fraud detection, cybersecurity, and health monitoring
