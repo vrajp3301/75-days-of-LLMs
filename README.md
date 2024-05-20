@@ -257,3 +257,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 62](Days/Day-62/day62.md)
 - **Topic:**  LLMs for Anomaly Detection in Text
 - **Content:**  LLMs enable effective anomaly detection in text by identifying unusual patterns, aiding in applications like fraud detection, cybersecurity, and health monitoring
+
+### [Day 63](Days/Day-63/day63.md)
+- **Topic:**  Exploring Fine-grained Tasks with LLMs
+- **Content:**  LLMs excel in fine-grained tasks like NER, aspect-based sentiment analysis, and part-of-speech tagging, enhancing detailed text analysis
