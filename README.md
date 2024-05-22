@@ -265,3 +265,11 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 64](Days/Day-64/day64.md)
 - **Topic:**  LLMs for Event Detection and Extraction
 - **Content:**  LLMs effectively identify and extract significant events from text, enhancing real-time monitoring and historical analysis
+
+### [Day 65](Days/Day-65/day65.md)
+- **Topic:**  Automated Hyperparameter Tuning for LLMs 
+- **Content:**  Automated hyperparameter tuning optimizes LLM performance, enhancing accuracy and efficiency through systematic optimization methods
+
+### [Day 66](Days/Day-66/day66.md)
+- **Topic:**  LLMs for Automated Programming
+- **Content:**  LLMs automate programming by generating, completing, translating, and debugging code, enhancing development efficiency
