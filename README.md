@@ -261,3 +261,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 63](Days/Day-63/day63.md)
 - **Topic:**  Exploring Fine-grained Tasks with LLMs
 - **Content:**  LLMs excel in fine-grained tasks like NER, aspect-based sentiment analysis, and part-of-speech tagging, enhancing detailed text analysis
+
+### [Day 64](Days/Day-64/day64.md)
+- **Topic:**  LLMs for Event Detection and Extraction
+- **Content:**  LLMs effectively identify and extract significant events from text, enhancing real-time monitoring and historical analysis
