@@ -273,3 +273,7 @@ Each day, we will explore different aspects of LLMs, including types, applicatio
 ### [Day 66](Days/Day-66/day66.md)
 - **Topic:**  LLMs for Automated Programming
 - **Content:**  LLMs automate programming by generating, completing, translating, and debugging code, enhancing development efficiency
+
+### [Day 67](Days/Day-67/day67.md)
+- **Topic:**  Exploring Model Compression Techniques for LLMs
+- **Content:**  Model compression techniques enhance LLM efficiency by reducing size and computational requirements without significant performance loss
